@@ -18,7 +18,7 @@ import sass from "../assets/sass.png";
 import typescript from "../assets/typescript.png";
 import vue from "../assets/vue.png";
 import java from "../assets/java.svg";
-import dotnet from "../assets/.netCore.svg";
+import dotnet from "../assets/dotnetnetCore.svg";
 
 import profile from "../assets/zac-profile.png";
 import pat from "../assets/pat.png";
